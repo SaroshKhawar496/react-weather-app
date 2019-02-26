@@ -1,2 +1,3 @@
 ## React Weather App
-### s 
+### Simple Weather App made in React
+### Visit: https://simple-weather-widget.herokuapp.com/
